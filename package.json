@@ -1,0 +1,16 @@
+{
+  "name": "usedevicemotion",
+  "version": "1.0.3",
+  "description": "React hook for device motion",
+  "author": "Adam Chambers <adammchambers@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chambaz/usedevicemotion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chambaz/usedevicemotion/issues"
+  },
+  "homepage": "https://github.com/chambaz/usedevicemotion#readme",
+  "main": "usedevicemotion.js"
+}
